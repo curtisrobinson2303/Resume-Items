@@ -1,0 +1,23 @@
+BIG O's:
+
+SET *createDataSet(int maxElts); // Runtime Big O(n).
+
+
+extern void destroyDataSet(SET *sp); // Runtime Big O(n).
+
+
+extern void searchAge(SET *sp, int age); // Runtime Big O(n).
+
+
+extern void insertion(SET *sp, int studentID, int age); // Runtime Big O(1).
+
+
+extern void deletion(SET *sp, int age); // Runtime Big O(n).
+
+
+extern void maxAgeGap(SET *sp); // Runtime Big O(1).
+
+Reasoning's:
+
+	This data structure is good because it is super efficient. I concisely adds all of the information to the set and is able to insert delete and find the max age gap fast. This structure design helps to the efficiency because of how the data is split up. Also, the simple array structure with the list allows the flexibility that there may be clustering where there are more than 1 students that have the same age. This is better than other data structures because it is simple and easy to understand and allows a lot of flexibility for the addition of elements to it. 
+

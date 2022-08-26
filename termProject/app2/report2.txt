@@ -1,0 +1,21 @@
+Big O:
+
+
+SET *createDataSet(int maxElts);
+Runtime: Big O(n)
+
+extern void destroyDataSet(SET *sp);
+Runtime: Big O(1)
+
+extern void searchID(SET *sp, int studentID);
+Runtime: Big O(1)
+
+extern void insertion(SET *sp, int studentID, int age);
+Runtime: Big O(1)
+
+extern void deletion(SET *sp, int age);
+Runtime: Big O(1)
+
+
+
+Reasonings: This is the best data stutter for this because it allows the easiest deletion insertion and additions of elements into the struct. One can find the student id instantly and creating and destroying the struct is simple. It is super fast and concise and better than other data structures.
