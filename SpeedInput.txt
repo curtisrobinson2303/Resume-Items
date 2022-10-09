@@ -1,0 +1,130 @@
+Aug 24 12:57:51.501.415 - Copy That: (Job ID: ARRI_TEST_1_) Job started
+Aug 24 12:57:51.859.092 - Copy That: (Job ID: ARRI_TEST_1_) Copying
+Aug 24 12:57:51.859.105 - Copy That: (Job ID: ARRI_TEST_1_) Starting metadata extraction
+Aug 24 12:57:52.164.320 - Copy That: (Job ID: ARRI_TEST_1_) Finished metadata extraction
+Aug 24 12:59:12.472.491 - Copy That: (Job ID: ARRI_TEST_1_) Verifying
+Aug 24 13:01:02.269.791 - Copy That: (Job ID: ARRI_TEST_1_) Generating Thumbnails
+Aug 24 13:01:18.055.402 - Copy That: (Job ID: ARRI_TEST_1_) Archiving
+Aug 24 13:01:21.665.609 - Copy That: (Job ID: ARRI_TEST_1_) Exporting reports
+Aug 24 13:02:52.580.657 - Copy That: (Job ID: ARRI_TEST_1_) Cleaning up job
+Aug 24 13:02:52.581.928 - Copy That: (Job ID: ARRI_TEST_1_) Job finished
+Aug 24 13:25:03.475.280 - Copy That: (Job ID: RED_TEST_1_) Job started
+Aug 24 13:25:03.601.374 - Copy That: (Job ID: RED_TEST_1_) Copying
+Aug 24 13:25:03.601.394 - Copy That: (Job ID: RED_TEST_1_) Starting metadata extraction
+Aug 24 13:25:04.451.081 - Copy That: (Job ID: RED_TEST_1_) Finished metadata extraction
+Aug 24 13:26:16.863.049 - Copy That: (Job ID: RED_TEST_1_) Verifying
+Aug 24 13:27:28.980.497 - Copy That: (Job ID: RED_TEST_1_) Generating Thumbnails
+Aug 24 13:29:41.927.649 - Copy That: (Job ID: RED_TEST_1_) Archiving
+Aug 24 13:29:41.998.103 - Copy That: (Job ID: RED_TEST_1_) Exporting reports
+Aug 24 13:29:44.080.131 - Copy That: (Job ID: RED_TEST_1_) Cleaning up job
+Aug 24 13:29:44.081.405 - Copy That: (Job ID: RED_TEST_1_) Job finished
+Aug 24 13:30:37.483.150 - Copy That: (Job ID: RED_TEST_2) Job started
+Aug 24 13:30:37.497.912 - Copy That: (Job ID: RED_TEST_2) Copying
+Aug 24 13:30:37.497.941 - Copy That: (Job ID: RED_TEST_2) Starting metadata extraction
+Aug 24 13:30:37.757.920 - Copy That: (Job ID: RED_TEST_2) Finished metadata extraction
+Aug 24 13:31:50.647.861 - Copy That: (Job ID: RED_TEST_2) Verifying
+Aug 24 13:33:02.538.303 - Copy That: (Job ID: RED_TEST_2) Generating Thumbnails
+Aug 24 13:35:13.477.695 - Copy That: (Job ID: RED_TEST_2) Archiving
+Aug 24 13:35:13.541.414 - Copy That: (Job ID: RED_TEST_2) Exporting reports
+Aug 24 13:35:15.234.110 - Copy That: (Job ID: RED_TEST_2) Cleaning up job
+Aug 24 13:35:15.235.517 - Copy That: (Job ID: RED_TEST_2) Job finished
+Aug 24 13:35:20.784.886 - Copy That: (Job ID: RED_TEST_3) Job started
+Aug 24 13:35:20.798.100 - Copy That: (Job ID: RED_TEST_3) Copying
+Aug 24 13:35:20.798.117 - Copy That: (Job ID: RED_TEST_3) Starting metadata extraction
+Aug 24 13:35:21.059.545 - Copy That: (Job ID: RED_TEST_3) Finished metadata extraction
+Aug 24 13:36:33.713.608 - Copy That: (Job ID: RED_TEST_3) Verifying
+Aug 24 13:37:45.764.379 - Copy That: (Job ID: RED_TEST_3) Generating Thumbnails
+Aug 24 13:39:58.016.996 - Copy That: (Job ID: RED_TEST_3) Archiving
+Aug 24 13:39:58.079.385 - Copy That: (Job ID: RED_TEST_3) Exporting reports
+Aug 24 13:39:59.785.272 - Copy That: (Job ID: RED_TEST_3) Cleaning up job
+Aug 24 13:39:59.786.813 - Copy That: (Job ID: RED_TEST_3) Job finished
+Aug 24 13:40:34.949.107 - Copy That: (Job ID: RED_TEST_4) Job started
+Aug 24 13:40:34.963.966 - Copy That: (Job ID: RED_TEST_4) Copying
+Aug 24 13:40:34.963.983 - Copy That: (Job ID: RED_TEST_4) Starting metadata extraction
+Aug 24 13:40:35.230.478 - Copy That: (Job ID: RED_TEST_4) Finished metadata extraction
+Aug 24 13:41:48.275.174 - Copy That: (Job ID: RED_TEST_4) Verifying
+Aug 24 13:43:00.330.402 - Copy That: (Job ID: RED_TEST_4) Generating Thumbnails
+Aug 24 13:45:13.264.727 - Copy That: (Job ID: RED_TEST_4) Archiving
+Aug 24 13:45:13.335.566 - Copy That: (Job ID: RED_TEST_4) Exporting reports
+Aug 24 13:45:15.437.201 - Copy That: (Job ID: RED_TEST_4) Cleaning up job
+Aug 24 13:45:15.438.936 - Copy That: (Job ID: RED_TEST_4) Job finished
+Aug 24 13:49:48.450.868 - Copy That: (Job ID: RED_TEST_5) Job started
+Aug 24 13:49:48.465.301 - Copy That: (Job ID: RED_TEST_5) Copying
+Aug 24 13:49:48.465.312 - Copy That: (Job ID: RED_TEST_5) Starting metadata extraction
+Aug 24 13:49:48.769.462 - Copy That: (Job ID: RED_TEST_5) Finished metadata extraction
+Aug 24 13:50:25.343.410 - Copy That: (Job ID: RED_TEST_5) Verifying
+Aug 24 13:51:07.860.540 - Copy That: (Job ID: RED_TEST_5) Generating Thumbnails
+Aug 24 13:53:19.707.707 - Copy That: (Job ID: RED_TEST_5) Archiving
+Aug 24 13:53:19.771.631 - Copy That: (Job ID: RED_TEST_5) Exporting reports
+Aug 24 13:53:21.528.000 - Copy That: (Job ID: RED_TEST_5) Cleaning up job
+Aug 24 13:53:21.529.850 - Copy That: (Job ID: RED_TEST_5) Job finished
+Aug 24 13:53:33.719.573 - Copy That: (Job ID: RED_TEST_6) Job started
+Aug 24 13:53:33.756.975 - Copy That: (Job ID: RED_TEST_6) Copying
+Aug 24 13:53:33.756.989 - Copy That: (Job ID: RED_TEST_6) Starting metadata extraction
+Aug 24 13:53:34.433.863 - Copy That: (Job ID: RED_TEST_6) Finished metadata extraction
+Aug 24 13:54:10.628.694 - Copy That: (Job ID: RED_TEST_6) Verifying
+Aug 24 13:54:52.997.339 - Copy That: (Job ID: RED_TEST_6) Generating Thumbnails
+Aug 24 13:57:04.547.778 - Copy That: (Job ID: RED_TEST_6) Archiving
+Aug 24 13:57:04.613.230 - Copy That: (Job ID: RED_TEST_6) Exporting reports
+Aug 24 13:57:06.419.814 - Copy That: (Job ID: RED_TEST_6) Cleaning up job
+Aug 24 13:57:06.421.787 - Copy That: (Job ID: RED_TEST_6) Job finished
+Aug 24 13:57:12.123.800 - Copy That: (Job ID: RED_TEST_7) Job started
+Aug 24 13:57:12.138.432 - Copy That: (Job ID: RED_TEST_7) Copying
+Aug 24 13:57:12.138.484 - Copy That: (Job ID: RED_TEST_7) Starting metadata extraction
+Aug 24 13:57:12.437.008 - Copy That: (Job ID: RED_TEST_7) Finished metadata extraction
+Aug 24 13:57:48.993.216 - Copy That: (Job ID: RED_TEST_7) Verifying
+Aug 24 13:58:31.880.038 - Copy That: (Job ID: RED_TEST_7) Generating Thumbnails
+Aug 24 14:00:43.165.279 - Copy That: (Job ID: RED_TEST_7) Archiving
+Aug 24 14:00:43.229.863 - Copy That: (Job ID: RED_TEST_7) Exporting reports
+Aug 24 14:00:45.070.106 - Copy That: (Job ID: RED_TEST_7) Cleaning up job
+Aug 24 14:00:45.072.345 - Copy That: (Job ID: RED_TEST_7) Job finished
+Aug 24 14:00:50.675.294 - Copy That: (Job ID: RED_TEST_8) Job started
+Aug 24 14:00:50.689.200 - Copy That: (Job ID: RED_TEST_8) Copying
+Aug 24 14:00:50.689.211 - Copy That: (Job ID: RED_TEST_8) Starting metadata extraction
+Aug 24 14:00:51.002.992 - Copy That: (Job ID: RED_TEST_8) Finished metadata extraction
+Aug 24 14:01:27.595.105 - Copy That: (Job ID: RED_TEST_8) Verifying
+Aug 24 14:02:10.053.359 - Copy That: (Job ID: RED_TEST_8) Generating Thumbnails
+Aug 24 14:04:21.245.854 - Copy That: (Job ID: RED_TEST_8) Archiving
+Aug 24 14:04:21.311.331 - Copy That: (Job ID: RED_TEST_8) Exporting reports
+Aug 24 14:04:23.187.024 - Copy That: (Job ID: RED_TEST_8) Cleaning up job
+Aug 24 14:04:23.189.447 - Copy That: (Job ID: RED_TEST_8) Job finished
+Aug 24 14:04:45.952.461 - Copy That: (Job ID: RED_TEST_9) Job started
+Aug 24 14:04:45.970.124 - Copy That: (Job ID: RED_TEST_9) Copying
+Aug 24 14:04:45.970.147 - Copy That: (Job ID: RED_TEST_9) Starting metadata extraction
+Aug 24 14:04:46.206.908 - Copy That: (Job ID: RED_TEST_9) Finished metadata extraction
+Aug 24 14:07:58.078.649 - Copy That: (Job ID: RED_TEST_9) Verifying
+Aug 24 14:11:07.752.897 - Copy That: (Job ID: RED_TEST_9) Generating Thumbnails
+Aug 24 14:13:20.208.158 - Copy That: (Job ID: RED_TEST_9) Archiving
+Aug 24 14:13:20.271.512 - Copy That: (Job ID: RED_TEST_9) Exporting reports
+Aug 24 14:13:22.138.939 - Copy That: (Job ID: RED_TEST_9) Cleaning up job
+Aug 24 14:13:22.141.500 - Copy That: (Job ID: RED_TEST_9) Job finished
+Aug 24 14:13:31.577.592 - Copy That: (Job ID: RED_TEST_10) Job started
+Aug 24 14:13:31.595.918 - Copy That: (Job ID: RED_TEST_10) Copying
+Aug 24 14:13:31.595.973 - Copy That: (Job ID: RED_TEST_10) Starting metadata extraction
+Aug 24 14:13:31.832.229 - Copy That: (Job ID: RED_TEST_10) Finished metadata extraction
+Aug 24 14:16:44.000.022 - Copy That: (Job ID: RED_TEST_10) Verifying
+Aug 24 14:19:54.543.648 - Copy That: (Job ID: RED_TEST_10) Generating Thumbnails
+Aug 24 14:22:07.525.670 - Copy That: (Job ID: RED_TEST_10) Archiving
+Aug 24 14:22:07.602.756 - Copy That: (Job ID: RED_TEST_10) Exporting reports
+Aug 24 14:22:10.000.208 - Copy That: (Job ID: RED_TEST_10) Cleaning up job
+Aug 24 14:22:10.002.972 - Copy That: (Job ID: RED_TEST_10) Job finished
+Aug 24 14:22:48.156.579 - Copy That: (Job ID: RED_TEST_11) Job started
+Aug 24 14:22:48.194.079 - Copy That: (Job ID: RED_TEST_11) Copying
+Aug 24 14:22:48.194.095 - Copy That: (Job ID: RED_TEST_11) Starting metadata extraction
+Aug 24 14:22:48.939.682 - Copy That: (Job ID: RED_TEST_11) Finished metadata extraction
+Aug 24 14:25:59.192.921 - Copy That: (Job ID: RED_TEST_11) Verifying
+Aug 24 14:29:09.284.108 - Copy That: (Job ID: RED_TEST_11) Generating Thumbnails
+Aug 24 14:31:21.017.982 - Copy That: (Job ID: RED_TEST_11) Archiving
+Aug 24 14:31:21.101.704 - Copy That: (Job ID: RED_TEST_11) Exporting reports
+Aug 24 14:31:23.068.971 - Copy That: (Job ID: RED_TEST_11) Cleaning up job
+Aug 24 14:31:23.071.895 - Copy That: (Job ID: RED_TEST_11) Job finished
+Aug 24 14:32:07.385.030 - Copy That: (Job ID: RED_TEST_12) Job started
+Aug 24 14:32:07.405.840 - Copy That: (Job ID: RED_TEST_12) Copying
+Aug 24 14:32:07.405.854 - Copy That: (Job ID: RED_TEST_12) Starting metadata extraction
+Aug 24 14:32:07.659.613 - Copy That: (Job ID: RED_TEST_12) Finished metadata extraction
+Aug 24 14:35:17.989.745 - Copy That: (Job ID: RED_TEST_12) Verifying
+Aug 24 14:38:27.225.993 - Copy That: (Job ID: RED_TEST_12) Generating Thumbnails
+Aug 24 14:40:39.866.783 - Copy That: (Job ID: RED_TEST_12) Archiving
+Aug 24 14:40:39.960.211 - Copy That: (Job ID: RED_TEST_12) Exporting reports
+Aug 24 14:40:42.467.787 - Copy That: (Job ID: RED_TEST_12) Cleaning up job
+Aug 24 14:40:42.471.276 - Copy That: (Job ID: RED_TEST_12) Job finished
